@@ -33,7 +33,6 @@ export default function Row({ isLargeRow, title, id, fetchUrl }) {
                 src={`https://image.tmdb.org/t/p/original/${
                   isLargeRow ? movie.poster_path : movie.backdrop_path
                 } `}
-                loading="lazy"
                 alt={movie.name}
               />
             ))}
