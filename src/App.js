@@ -1,9 +1,9 @@
-import "./App.css";
-import Nav from "./components/Nav";
-import Row from "./components/Row";
-import React from "react";
-import Banner from "./components/Banner";
-import requests from "./api/requests";
+import './App.css';
+import Nav from './components/Nav';
+import Row from './components/Row';
+import React from 'react';
+import Banner from './components/Banner';
+import requests from './api/requests';
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
       <Row
         title="NETFLIX ORIGINALS"
         id="NO"
-        fetchURL={requests.fetchNetflixOriginals}
+        fetchUrl={requests.fetchNetflixOriginals}
         isLargeRow
       />
 
