@@ -4,6 +4,7 @@ import Row from './components/Row';
 import React from 'react';
 import Banner from './components/Banner';
 import requests from './api/requests';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
         id="CM"
         fetchUrl={requests.fetchComedyMovies}
       />
+      <Footer />
     </div>
   );
 }
