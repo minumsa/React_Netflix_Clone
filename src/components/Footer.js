@@ -17,8 +17,20 @@ export default function Footer() {
             <FooterLink href="https://help.netflix.com/ko/">
               미디어 센터
             </FooterLink>
-            <FooterLink href="https://help.netflix.com/ko/">
+            <FooterLink href="https://help.netflix.com/legal/termsofuse">
               이용 약관
+            </FooterLink>
+            <FooterLink href="https://help.netflix.com/legal/privacy">
+              개인 정보
+            </FooterLink>
+            <FooterLink href="https://help.netflix.com/legal/corpinfo">
+              회사 정보
+            </FooterLink>
+            <FooterLink href="https://help.netflix.com/ko/contactus">
+              문의하기
+            </FooterLink>
+            <FooterLink href="https://help.netflix.com/legal/notices">
+              법적 고지
             </FooterLink>
           </FooterLinkContent>
           <FooterDescContainer>
