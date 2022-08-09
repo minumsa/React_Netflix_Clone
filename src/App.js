@@ -1,11 +1,11 @@
-import { Outlet, Routes, Route } from "react-router-dom";
-import "./App.css";
-import Nav from "./components/Nav";
-import React from "react";
-import Footer from "./components/Footer";
-import DetailPage from "./pages/DetailPage";
-import MainPage from "./pages/MainPage";
-import SearchPage from "./pages/SearchPage";
+import { Outlet, Routes, Route } from 'react-router-dom';
+import './App.css';
+import Nav from './components/Nav';
+import React from 'react';
+import Footer from './components/Footer';
+import DetailPage from './pages/DetailPage';
+import MainPage from './pages/MainPage';
+import SearchPage from './pages/SearchPage';
 
 const Layout = () => {
   return (
