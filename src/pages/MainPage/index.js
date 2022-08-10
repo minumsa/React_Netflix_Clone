@@ -1,7 +1,7 @@
-import React from "react";
-import Banner from "../../components/Banner";
-import Row from "../../components/Row";
-import requests from "../../api/requests";
+import React from 'react';
+import Banner from '../../components/Banner';
+import Row from '../../components/Row';
+import requests from '../../api/requests';
 
 export default function MainPage() {
   return (
@@ -24,6 +24,21 @@ export default function MainPage() {
         title="Comedy Movies"
         id="CM"
         fetchUrl={requests.fetchComedyMovies}
+      />
+      <Row
+        title="Horror Movies"
+        id="HM"
+        fetchUrl={requests.fetchHorrorMovies}
+      />
+      <Row
+        title="Romance Movies"
+        id="RM"
+        fetchUrl={requests.fetchRomanceMovies}
+      />
+      <Row
+        title="Documentaries"
+        id="DM"
+        fetchUrl={requests.fetchDocumentaries}
       />
     </div>
   );
