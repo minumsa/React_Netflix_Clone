@@ -1,5 +1,5 @@
-import React from 'react';
-import styled from 'styled-components';
+import React from "react";
+import styled from "styled-components";
 
 export default function Footer() {
   return (
@@ -8,33 +8,17 @@ export default function Footer() {
         <FooterLinkContainer>
           <FooterLinkTitle>넷플릭스 대한민국</FooterLinkTitle>
           <FooterLinkContent>
-            <FooterLink href="https://help.netflix.com/ko/node/412">
-              넷플릭스 소개
-            </FooterLink>
-            <FooterLink href="https://help.netflix.com/ko/">
-              고객 센터
-            </FooterLink>
-            <FooterLink href="https://help.netflix.com/ko/">
-              미디어 센터
-            </FooterLink>
-            <FooterLink href="https://help.netflix.com/legal/termsofuse">
-              이용 약관
-            </FooterLink>
-            <FooterLink href="https://help.netflix.com/legal/privacy">
-              개인 정보
-            </FooterLink>
-            <FooterLink href="https://help.netflix.com/legal/corpinfo">
-              회사 정보
-            </FooterLink>
-            <FooterLink href="https://help.netflix.com/ko/contactus">
-              문의하기
-            </FooterLink>
-            <FooterLink href="https://help.netflix.com/legal/notices">
-              법적 고지
-            </FooterLink>
+            <FooterLink href="https://help.netflix.com/ko/node/412">넷플릭스 소개</FooterLink>
+            <FooterLink href="https://help.netflix.com/ko/">고객 센터</FooterLink>
+            <FooterLink href="https://help.netflix.com/ko/">미디어 센터</FooterLink>
+            <FooterLink href="https://help.netflix.com/legal/termsofuse">이용 약관</FooterLink>
+            <FooterLink href="https://help.netflix.com/legal/privacy">개인 정보</FooterLink>
+            <FooterLink href="https://help.netflix.com/legal/corpinfo">회사 정보</FooterLink>
+            <FooterLink href="https://help.netflix.com/ko/contactus">문의하기</FooterLink>
+            <FooterLink href="https://help.netflix.com/legal/notices">법적 고지</FooterLink>
           </FooterLinkContent>
           <FooterDescContainer>
-            <FooterDescRights>Netflix Rights Reserved.</FooterDescRights>
+            <FooterDescRights>© Netflix Rights Reserved.</FooterDescRights>
           </FooterDescContainer>
         </FooterLinkContainer>
       </FooterContent>
