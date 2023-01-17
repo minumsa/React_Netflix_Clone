@@ -1,6 +1,6 @@
 #### ✅ 프로젝트 구현 영상
 
-https://youtu.be/IYhf5rRTbvw
+<a href="https://youtu.be/IYhf5rRTbvw" target="_blank">https://youtu.be/IYhf5rRTbvw</a>
 
 #### ✅ 프로젝트 소개
 
