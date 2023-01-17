@@ -1,10 +1,10 @@
 #### ✅ 프로젝트 구현 영상
 
-https://www.youtube.com/watch?v=UnaFT9iJ4sw&ab_channel=BanHeesoo
+https://youtu.be/IYhf5rRTbvw
 
 #### ✅ 프로젝트 소개
 
-`넷플릭스` 웹사이트를 복제하며 `리액트`의 심화적인 기능을 사용해보았습니다.
+`넷플릭스` 웹사이트를 복제하며 `리액트`의 심화적인 기능을 사용해봤습니다.
 
 #### ✅ 구현 기능 목록
 
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=UnaFT9iJ4sw&ab_channel=BanHeesoo
 
 #### ✅ 프로필
 
-1. `희망 직종`: 웹 개발, 프론트엔드
+1. `희망 직종`: 웹 개발 - 프론트엔드
 2. `깃허브`: https://github.com/minumsa
 3. `블로그`: https://icycyi.tistory.com
 4. `이메일`: carver1014@kakao.com
